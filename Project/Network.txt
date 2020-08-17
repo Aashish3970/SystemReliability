@@ -1,0 +1,9 @@
+point1 0.8 point4
+point1 0.91 point2
+point1 0.93 point3
+point2 0.87 point3
+point2 0.9 point3
+point3 0.9 point4
+point3 0.9 point4
+point4 0.99 point5
+point5 0.96 point6
